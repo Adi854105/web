@@ -83,7 +83,7 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url(/Images/title_bg.gif);
+  background-image: url(../Images/title_bg.gif);
   border-bottom: 0.9rem solid rgb(255, 201, 5);
 }
 .container h1 {
@@ -121,7 +121,7 @@ html {
 .img_div {
   width: 50rem;
   height: 44.2rem;
-  background-image: url(/Images/mental.jpg),
+  background-image: url(../Images/mental.jpg),
     linear-gradient(17deg, rgba(27, 255, 0, 1) 0%, rgba(255, 0, 0, 1) 100%);
   background-size: cover;
   background-position: 490px;
@@ -218,7 +218,7 @@ html {
 .img_div_2 {
   width: 50rem;
   height: 44.2rem;
-  background-image: url(/Images/mental1.jpg);
+  background-image: url(../Images/mental1.jpg);
   /* linear-gradient(17deg, rgba(27, 255, 0, 1) 0%, rgba(255, 0, 0, 1) 100%); */
   background-size: cover;
   background-position: 400px;
@@ -301,7 +301,7 @@ html {
 .img_div_3 {
   width: 50rem;
   height: 44.2rem;
-  background-image: url(/Images/mental2.jpg);
+  background-image: url(../Images/mental2.jpg);
   background-size: cover;
   background-position: 510px;
   border-right: 0.3rem solid #5800ff;
