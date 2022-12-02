@@ -14,7 +14,7 @@ body {
   width: 50%;
   height: 100vh;
   color: White;
-  background-image: url(/Images/Welcom.jpg);
+  background-image: url(../Images/Welcom.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
